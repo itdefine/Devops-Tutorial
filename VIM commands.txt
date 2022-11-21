@@ -1,0 +1,42 @@
+	esc i  ==> insert the data into the file
+	esc x  ==> Deletes the selected chaaracter
+	esc dd ==> to delete the whole line
+
+	esc o  => Creates new line
+	esc Shift Enter ==> it will take to the new line ==> current line will be moved next line
+
+	esc => control i ==> navigate through the file
+	esc => control o ==> navigate through the file
+
+
+	To paste anything to vi editor  ==> Control Shift V
+	To Copy anything from vi editor ==> Control Shift C
+
+	esc :wq			=> Save and Quit
+	esc :q          => Quit
+	esc :q!         => Ignore and Quit Forceefully
+	esc :wq!		=> Save Quit Forceefully
+	
+	esc :/pattern
+			n
+			N
+
+	esc :%s/the/xxxxxxxx/g
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

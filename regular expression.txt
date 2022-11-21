@@ -1,0 +1,20 @@
+regular expression 
+re
+
+pattern
+
+\d ==> digit
+\D ==> other than digit
+
+\d+  ==> one or more accorance of digit
+[a-z]+	==> 
+[A-Z]+	==>
+
+\i  ==> ignoring case
+.* 	==> Wildcard search ==> any character except new line
+
+\w
+\W = not w 
+
+\ for escape charecter
+
